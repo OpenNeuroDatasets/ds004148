@@ -1,0 +1,1049 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "age": {
+        "Description": "Age of the participant at time of testing",
+        "Units": "years old"
+    },
+    "sex": {
+        "Description": "Biological sex of the participant",
+        "Levels": {
+            "f": "female",
+            "m": "male"
+        }
+    },
+    "Height": {
+        "Description": "Uncountable and countable (tallness) of the participant at time of testing",
+        "Units": "centimeter"
+    },
+    "Weight": {
+        "Description": "Uncountable and countable (measure of heaviness) of the participant at time of testing",
+        "Units": "kilogram"
+    },
+
+   "SAS_1stVisit": {
+        "Description": "Overall score of the SAS during participants' first visit"
+    },
+
+   "SDS_1stVisit": {
+        "Description": "Overall score of the SDS during participants' first visit"
+    },
+
+   "ESS_1stVisit": {
+        "Description": "Overall score of the ESS during participants' first visit"
+    },
+
+   "SAS_2ndVisit": {
+        "Description": "Overall score of the SAS during participants' second visit"
+    },
+
+   "SDS_2ndVisit": {
+        "Description": "Overall score of the SDS during participants' second visit"
+    },
+
+   "ESS_2ndVisit": {
+        "Description": "Overall score of the ESS during participants' second visit"
+    },
+
+   "(1)Discontinuity of Mind_session1": {
+        "Description": "Overall score of the first dimention of ARSQ2.0(Discontinuity of Mind) at session1"
+    },
+
+   "(2)Theory of Mind_session1": {
+        "Description": "Overall score of the second dimention of ARSQ2.0(Theory of Mind) at session1"
+    },
+
+   "(3)Self_session1": {
+        "Description": "Overall score of the third dimention of ARSQ2.0(Self) at session1"
+    },
+
+    "(4)Planning_session1": {
+        "Description": "Overall score of the fourth dimention of ARSQ2.0(Planning) at session1"
+    },
+
+    "(5)Sleepiness_session1": {
+        "Description": "Overall score of the fifth dimention of ARSQ2.0(Sleepiness) at session1"
+    },
+
+    "(6)Comfort_session1": {
+        "Description": "Overall score of the sixth dimention of ARSQ2.0(Comfort) at session1"
+    },
+
+    "(7)Somatic Awareness_session1": {
+        "Description": "Overall score of the seventh dimention of ARSQ2.0(Somatic Awareness) at session1"
+    },
+
+    "(8)Health Concern_session1": {
+        "Description": "Overall score of the eighth dimention of ARSQ2.0(Health Concern) at session1"
+    },
+    
+    "(9)Visual Thought_session1": {
+        "Description": "Overall score of the ninth dimention of ARSQ2.0(Visual Thought) at session1"
+    },
+
+    "(10)Verbal Thought_session1": {
+        "Description": "Overall score of the tenth dimention of ARSQ2.0(Verbal Thought) at session1"
+    },
+
+    "KSS_session1": {
+        "Description": "Overall score of the KSS at session1"
+    },
+
+    "PANAS-P_session1": {
+        "Description": "Overall score of the Positive Affect(PA) measured by PANAS at session1"
+    },
+
+    "PANAS-N_session1": {
+        "Description": "Overall score of the Negative Affect(NA) measured by PANAS at session1"
+    },
+
+
+    "Subtraction_Correct/Not correct_session1": {
+        "Description": "The corectness of the final answer during the Subtraction sate at session1",
+        "Levels": {
+            "1": "Correct",
+            "0": "Not correct",
+            "n/a": "Participant did not response"
+        }
+    },
+
+    "Subtraction_The final number_session1": {
+        "Description": "The final answer during the Subtraction sate at session1"  
+    },
+
+    "Music Times of singing music lyrics_session1": {
+        "Description": "Times of singing music lyrics during the music state at session1"  
+    },
+
+    "Memory_Times of recall_session1": {
+        "Description": "Times of recalling the events of the day from when participants awoke until they arrived at the lab during the memory state at session1"  
+    },
+
+  "(1)Discontinuity of Mind_session2": {
+        "Description": "Overall score of the first dimention of ARSQ2.0(Discontinuity of Mind) at session2"
+    },
+
+   "(2)Theory of Mind_session2": {
+        "Description": "Overall score of the second dimention of ARSQ2.0(Theory of Mind) at session2"
+    },
+
+   "(3)Self_session2": {
+        "Description": "Overall score of the third dimention of ARSQ2.0(Self) at session2"
+    },
+
+    "(4)Planning_session2": {
+        "Description": "Overall score of the fourth dimention of ARSQ2.0(Planning) at session2"
+    },
+
+    "(5)Sleepiness_session2": {
+        "Description": "Overall score of the fifth dimention of ARSQ2.0(Sleepiness) at session2"
+    },
+
+    "(6)Comfort_session2": {
+        "Description": "Overall score of the sixth dimention of ARSQ2.0(Comfort) at session2"
+    },
+
+    "(7)Somatic Awareness_session2": {
+        "Description": "Overall score of the seventh dimention of ARSQ2.0(Somatic Awareness) at session2"
+    },
+
+    "(8)Health Concern_session2": {
+        "Description": "Overall score of the eighth dimention of ARSQ2.0(Health Concern) at session2"
+    },
+    
+    "(9)Visual Thought_session2": {
+        "Description": "Overall score of the ninth dimention of ARSQ2.0(Visual Thought) at session2"
+    },
+
+    "(10)Verbal Thought_session2": {
+        "Description": "Overall score of the tenth dimention of ARSQ2.0(Verbal Thought) at session2"
+    },
+
+    "KSS_session2": {
+        "Description": "Overall score of the KSS at session2"
+    },
+
+    "PANAS-P_session2": {
+        "Description": "Overall score of the Positive Affect(PA) measured by PANAS at session2"
+    },
+
+    "PANAS-N_session2": {
+        "Description": "Overall score of the Negative Affect(NA) measured by PANAS at session2"
+    },
+
+
+    "Subtraction_Correct/Not correct_session2": {
+        "Description": "The corectness of the final answer during the Subtraction sate at session2",
+        "Levels": {
+            "1": "Correct",
+            "0": "Not correct",
+            "n/a": "Participant did not response"
+        }
+    },
+
+    "Subtraction_The final number_session2": {
+        "Description": "The final answer during the Subtraction sate at session2"  
+    },
+
+    "Music Times of singing music lyrics_session2": {
+        "Description": "Times of singing music lyrics during the music state at session2"  
+    },
+
+    "Memory_Times of recall_session2": {
+        "Description": "Times of recalling the events of the day from when participants awoke until they arrived at the lab during the memory state at session2"  
+    },
+
+  "(1)Discontinuity of Mind_session3": {
+        "Description": "Overall score of the first dimention of ARSQ2.0(Discontinuity of Mind) at session3"
+    },
+
+   "(2)Theory of Mind_session3": {
+        "Description": "Overall score of the second dimention of ARSQ2.0(Theory of Mind) at session3"
+    },
+
+   "(3)Self_session3": {
+        "Description": "Overall score of the third dimention of ARSQ2.0(Self) at session3"
+    },
+
+    "(4)Planning_session3": {
+        "Description": "Overall score of the fourth dimention of ARSQ2.0(Planning) at session3"
+    },
+
+    "(5)Sleepiness_session3": {
+        "Description": "Overall score of the fifth dimention of ARSQ2.0(Sleepiness) at session3"
+    },
+
+    "(6)Comfort_session3": {
+        "Description": "Overall score of the sixth dimention of ARSQ2.0(Comfort) at session3"
+    },
+
+    "(7)Somatic Awareness_session3": {
+        "Description": "Overall score of the seventh dimention of ARSQ2.0(Somatic Awareness) at session3"
+    },
+
+    "(8)Health Concern_session3": {
+        "Description": "Overall score of the eighth dimention of ARSQ2.0(Health Concern) at session3"
+    },
+    
+    "(9)Visual Thought_session3": {
+        "Description": "Overall score of the ninth dimention of ARSQ2.0(Visual Thought) at session3"
+    },
+
+    "(10)Verbal Thought_session3": {
+        "Description": "Overall score of the tenth dimention of ARSQ2.0(Verbal Thought) at session3"
+    },
+
+    "KSS_session3": {
+        "Description": "Overall score of the KSS at session3"
+    },
+
+    "PANAS-P_session3": {
+        "Description": "Overall score of the Positive Affect(PA) measured by PANAS at session3"
+    },
+
+    "PANAS-N_session3": {
+        "Description": "Overall score of the Negative Affect(NA) measured by PANAS at session3"
+    },
+
+
+    "Subtraction_Correct/Not correct_session3": {
+        "Description": "The corectness of the final answer during the Subtraction sate at session3",
+        "Levels": {
+            "1": "Correct",
+            "0": "Not correct",
+            "n/a": "Participant did not response"
+        }
+    },
+
+    "Subtraction_The final number_session3": {
+        "Description": "The final answer during the Subtraction sate at session3"  
+    },
+
+    "Music Times of singing music lyrics_session3": {
+        "Description": "Times of singing music lyrics during the music state at session3"  
+    },
+
+    "Memory_Times of recall_session3": {
+        "Description": "Times of recalling the events of the day from when participants awoke until they arrived at the lab during the memory state at session3"  
+    },
+
+    "Mini_Item1_EO1": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during eyes-open state at session1"
+    },
+    "Mini_Item2_EO1": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during eyes-open state at session1"
+    },
+    "Mini_Item3_EO1": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during eyes-open state at session1"
+    },
+    "Mini_Item4_EO1": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during eyes-open state at session1"
+    },
+
+    "Mini_Item5_EO1": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during eyes-open state at session1"
+    },
+    "Mini_Item6_EO1": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during eyes-open state at session1"
+    },
+
+    "Mini_Item7_EO1": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during eyes-open state at session1"
+    },
+    "Mini_Item8_EO1": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during eyes-open state at session1"
+    },
+
+    "Mini_Item9_EO1": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during eyes-open state at session1"
+    },
+    "Mini_Item10_EO1": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during eyes-open state at session1"
+    },
+
+    "Mini_Item11_EO1": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during eyes-open state at session1"
+    },
+    "Mini_Item12_EO1": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during eyes-open state at session1"
+    },
+
+    "Mini_Item1_EC1": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during eyes-closed state at session1"
+    },
+    "Mini_Item2_EC1": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during eyes-closed state at session1"
+    },
+    "Mini_Item3_EC1": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during eyes-closed state at session1"
+    },
+    "Mini_Item4_EC1": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during eyes-closed state at session1"
+    },
+ 
+    "Mini_Item5_EC1": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during eyes-closed state at session1"
+    },
+    "Mini_Item6_EC1": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during eyes-closed state at session1"
+    },
+ 
+    "Mini_Item7_EC1": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during eyes-closed state at session1"
+    },
+    "Mini_Item8_EC1": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during eyes-closed state at session1"
+    },
+ 
+    "Mini_Item9_EC1": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during eyes-closed state at session1"
+    },
+    "Mini_Item10_EC1": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during eyes-closed state at session1"
+    },
+ 
+    "Mini_Item11_EC1": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during eyes-closed state at session1"
+    },
+    "Mini_Item12_EC1": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during eyes-closed state at session1"
+    },
+
+    "Mini_Item1_ Music1": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during Music state at session1"
+    },
+    "Mini_Item2_Music1": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during Music state at session1"
+    },
+    "Mini_Item3_Music1": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during Music state at session1"
+    },
+    "Mini_Item4_Music1": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during Music state at session1"
+    },
+ 
+    "Mini_Item5_Music1": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during Music state at session1"
+    },
+    "Mini_Item6_Music1": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during Music state at session1"
+    },
+ 
+    "Mini_Item7_Music1": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during Music state at session1"
+    },
+    "Mini_Item8_Music1": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during Music state at session1"
+    },
+ 
+    "Mini_Item9_Music1": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during Music state at session1"
+    },
+    "Mini_Item10_Music1": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during Music state at session1"
+    },
+ 
+    "Mini_Item11_Music1": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during Music state at session1"
+    },
+    "Mini_Item12_Music1": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during Music state at session1"
+    },
+ 
+    "Mini_Item1_ Memory1": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during Memory state at session1"
+    },
+    "Mini_Item2_Memory1": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during Memory state at session1"
+    },
+    "Mini_Item3_Memory1": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during Memory state at session1"
+    },
+    "Mini_Item4_Memory1": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during Memory state at session1"
+    },
+ 
+    "Mini_Item5_Memory1": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during Memory state at session1"
+    },
+    "Mini_Item6_Memory1": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during Memory state at session1"
+    },
+ 
+    "Mini_Item7_Memory1": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during Memory state at session1"
+    },
+    "Mini_Item8_Memory1": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during Memory state at session1"
+    },
+ 
+    "Mini_Item9_Memory1": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during Memory state at session1"
+    },
+    "Mini_Item10_Memory1": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during Memory state at session1"
+    },
+ 
+    "Mini_Item11_Memory1": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during Memory state at session1"
+    },
+    "Mini_Item12_Memory1": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during Memory state at session1"
+    },
+ 
+   "Mini_Item1_ Subtraction1": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during Subtraction state at session1"
+    },
+    "Mini_Item2_Subtraction1": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during Subtraction state at session1"
+    },
+    "Mini_Item3_Subtraction1": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during Subtraction state at session1"
+    },
+    "Mini_Item4_Subtraction1": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during Subtraction state at session1"
+    },
+ 
+    "Mini_Item5_Subtraction1": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during Subtraction state at session1"
+    },
+    "Mini_Item6_Subtraction1": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during Subtraction state at session1"
+    },
+ 
+    "Mini_Item7_Subtraction1": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during Subtraction state at session1"
+    },
+    "Mini_Item8_Subtraction1": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during Subtraction state at session1"
+    },
+ 
+    "Mini_Item9_Subtraction1": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during Subtraction state at session1"
+    },
+    "Mini_Item10_Subtraction1": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during Subtraction state at session1"
+    },
+ 
+    "Mini_Item11_Subtraction1": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during Subtraction state at session1"
+    },
+    "Mini_Item12_Subtraction1": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during Subtraction state at session1"
+    },
+
+    "Mini_Item1_EO2": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during eyes-open state at session2"
+    },
+    "Mini_Item2_EO2": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during eyes-open state at session2"
+    },
+    "Mini_Item3_EO2": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during eyes-open state at session2"
+    },
+    "Mini_Item4_EO2": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during eyes-open state at session2"
+    },
+ 
+    "Mini_Item5_EO2": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during eyes-open state at session2"
+    },
+    "Mini_Item6_EO2": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during eyes-open state at session2"
+    },
+ 
+    "Mini_Item7_EO2": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during eyes-open state at session2"
+    },
+    "Mini_Item8_EO2": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during eyes-open state at session2"
+    },
+ 
+    "Mini_Item9_EO2": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during eyes-open state at session2"
+    },
+    "Mini_Item10_EO2": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during eyes-open state at session2"
+    },
+ 
+    "Mini_Item11_EO2": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during eyes-open state at session2"
+    },
+    "Mini_Item12_EO2": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during eyes-open state at session2"
+    },
+ 
+    "Mini_Item1_EC2": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during eyes-closed state at session2"
+    },
+    "Mini_Item2_EC2": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during eyes-closed state at session2"
+    },
+    "Mini_Item3_EC2": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during eyes-closed state at session2"
+    },
+    "Mini_Item4_EC2": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during eyes-closed state at session2"
+    },
+ 
+    "Mini_Item5_EC2": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during eyes-closed state at session2"
+    },
+    "Mini_Item6_EC2": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during eyes-closed state at session2"
+    },
+ 
+    "Mini_Item7_EC2": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during eyes-closed state at session2"
+    },
+    "Mini_Item8_EC2": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during eyes-closed state at session2"
+    },
+ 
+    "Mini_Item9_EC2": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during eyes-closed state at session2"
+    },
+    "Mini_Item10_EC2": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during eyes-closed state at session2"
+    },
+ 
+    "Mini_Item11_EC2": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during eyes-closed state at session2"
+    },
+    "Mini_Item12_EC2": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during eyes-closed state at session2"
+    },
+ 
+    "Mini_Item1_ Music2": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during Music state at session2"
+    },
+    "Mini_Item2_Music2": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during Music state at session2"
+    },
+    "Mini_Item3_Music2": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during Music state at session2"
+    },
+    "Mini_Item4_Music2": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during Music state at session2"
+    },
+ 
+    "Mini_Item5_Music2": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during Music state at session2"
+    },
+    "Mini_Item6_Music2": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during Music state at session2"
+    },
+ 
+    "Mini_Item7_Music2": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during Music state at session2"
+    },
+    "Mini_Item8_Music2": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during Music state at session2"
+    },
+ 
+    "Mini_Item9_Music2": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during Music state at session2"
+    },
+    "Mini_Item10_Music2": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during Music state at session2"
+    },
+ 
+    "Mini_Item11_Music2": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during Music state at session2"
+    },
+    "Mini_Item12_Music2": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during Music state at session2"
+    },
+ 
+    "Mini_Item1_ Memory2": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during Memory state at session2"
+    },
+    "Mini_Item2_Memory2": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during Memory state at session2"
+    },
+    "Mini_Item3_Memory2": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during Memory state at session2"
+    },
+    "Mini_Item4_Memory2": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during Memory state at session2"
+    },
+ 
+    "Mini_Item5_Memory2": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during Memory state at session2"
+    },
+    "Mini_Item6_Memory2": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during Memory state at session2"
+    },
+ 
+    "Mini_Item7_Memory2": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during Memory state at session2"
+    },
+    "Mini_Item8_Memory2": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during Memory state at session2"
+    },
+ 
+    "Mini_Item9_Memory2": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during Memory state at session2"
+    },
+    "Mini_Item10_Memory2": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during Memory state at session2"
+    },
+ 
+    "Mini_Item11_Memory2": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during Memory state at session2"
+    },
+    "Mini_Item12_Memory2": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during Memory state at session2"
+    },
+ 
+   "Mini_Item1_ Subtraction2": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during Subtraction state at session2"
+    },
+    "Mini_Item2_Subtraction2": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during Subtraction state at session2"
+    },
+    "Mini_Item3_Subtraction2": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during Subtraction state at session2"
+    },
+    "Mini_Item4_Subtraction2": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during Subtraction state at session2"
+    },
+ 
+    "Mini_Item5_Subtraction2": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during Subtraction state at session2"
+    },
+    "Mini_Item6_Subtraction2": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during Subtraction state at session2"
+    },
+ 
+    "Mini_Item7_Subtraction2": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during Subtraction state at session2"
+    },
+    "Mini_Item8_Subtraction2": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during Subtraction state at session2"
+    },
+ 
+    "Mini_Item9_Subtraction2": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during Subtraction state at session2"
+    },
+    "Mini_Item10_Subtraction2": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during Subtraction state at session2"
+    },
+ 
+    "Mini_Item11_Subtraction2": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during Subtraction state at session2"
+    },
+    "Mini_Item12_Subtraction2": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during Subtraction state at session2"
+    },
+ 
+   "Mini_Item1_EO3": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during eyes-open state at session3"
+    },
+    "Mini_Item2_EO3": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during eyes-open state at session3"
+    },
+    "Mini_Item3_EO3": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during eyes-open state at session3"
+    },
+    "Mini_Item4_EO3": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during eyes-open state at session3"
+    },
+ 
+    "Mini_Item5_EO3": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during eyes-open state at session3"
+    },
+    "Mini_Item6_EO3": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during eyes-open state at session3"
+    },
+ 
+    "Mini_Item7_EO3": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during eyes-open state at session3"
+    },
+    "Mini_Item8_EO3": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during eyes-open state at session3"
+    },
+ 
+    "Mini_Item9_EO3": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during eyes-open state at session3"
+    },
+    "Mini_Item10_EO3": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during eyes-open state at session3"
+    },
+ 
+    "Mini_Item11_EO3": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during eyes-open state at session3"
+    },
+    "Mini_Item12_EO3": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during eyes-open state at session3"
+    },
+ 
+    "Mini_Item1_EC3": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during eyes-closed state at session3"
+    },
+    "Mini_Item2_EC3": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during eyes-closed state at session3"
+    },
+    "Mini_Item3_EC3": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during eyes-closed state at session3"
+    },
+    "Mini_Item4_EC3": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during eyes-closed state at session3"
+    },
+ 
+    "Mini_Item5_EC3": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during eyes-closed state at session3"
+    },
+    "Mini_Item6_EC3": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during eyes-closed state at session3"
+    },
+ 
+    "Mini_Item7_EC3": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during eyes-closed state at session3"
+    },
+    "Mini_Item8_EC3": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during eyes-closed state at session3"
+    },
+ 
+    "Mini_Item9_EC3": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during eyes-closed state at session3"
+    },
+    "Mini_Item10_EC3": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during eyes-closed state at session3"
+    },
+ 
+    "Mini_Item11_EC3": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during eyes-closed state at session3"
+    },
+    "Mini_Item12_EC3": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during eyes-closed state at session3"
+    },
+ 
+    "Mini_Item1_ Music3": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during Music state at session3"
+    },
+    "Mini_Item2_Music3": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during Music state at session3"
+    },
+    "Mini_Item3_Music3": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during Music state at session3"
+    },
+    "Mini_Item4_Music3": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during Music state at session3"
+    },
+ 
+    "Mini_Item5_Music3": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during Music state at session3"
+    },
+    "Mini_Item6_Music3": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during Music state at session3"
+    },
+ 
+    "Mini_Item7_Music3": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during Music state at session3"
+    },
+    "Mini_Item8_Music3": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during Music state at session3"
+    },
+ 
+    "Mini_Item9_Music3": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during Music state at session3"
+    },
+    "Mini_Item10_Music3": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during Music state at session3"
+    },
+ 
+    "Mini_Item11_Music3": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during Music state at session3"
+    },
+    "Mini_Item12_Music3": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during Music state at session3"
+    },
+ 
+    "Mini_Item1_ Memory3": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during Memory state at session3"
+    },
+    "Mini_Item2_Memory3": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during Memory state at session3"
+    },
+    "Mini_Item3_Memory3": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during Memory state at session3"
+    },
+    "Mini_Item4_Memory3": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during Memory state at session3"
+    },
+ 
+    "Mini_Item5_Memory3": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during Memory state at session3"
+    },
+    "Mini_Item6_Memory3": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during Memory state at session3"
+    },
+ 
+    "Mini_Item7_Memory3": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during Memory state at session3"
+    },
+    "Mini_Item8_Memory3": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during Memory state at session3"
+    },
+ 
+    "Mini_Item9_Memory3": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during Memory state at session3"
+    },
+    "Mini_Item10_Memory3": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during Memory state at session3"
+    },
+ 
+    "Mini_Item11_Memory3": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during Memory state at session3"
+    },
+    "Mini_Item12_Memory3": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during Memory state at session3"
+    },
+ 
+   "Mini_Item1_ Subtraction3": {
+        "Description": "Overall score of itme1(Positive) of mini NYC-Q during Subtraction state at session3"
+    },
+    "Mini_Item2_Subtraction3": {
+        "Description": "Overall score of itme2(Negative) of mini NYC-Q during Subtraction state at session3"
+    },
+    "Mini_Item3_Subtraction3": {
+        "Description": "Overall score of itme3(Future) of mini NYC-Q during Subtraction state at session3"
+    },
+    "Mini_Item4_Subtraction3": {
+        "Description": "Overall score of itme4(Past) of mini NYC-Q during Subtraction state at session3"
+    },
+ 
+    "Mini_Item5_Subtraction3": {
+        "Description": "Overall score of itme5(Myself) of mini NYC-Q during Subtraction state at session3"
+    },
+    "Mini_Item6_Subtraction3": {
+        "Description": "Overall score of itme6(People) of mini NYC-Q during Subtraction state at session3"
+    },
+ 
+    "Mini_Item7_Subtraction3": {
+        "Description": "Overall score of itme7(Surroundings) of mini NYC-Q during Subtraction state at session3"
+    },
+    "Mini_Item8_Subtraction3": {
+        "Description": "Overall score of itme8(Vigilance) of mini NYC-Q during Subtraction state at session3"
+    },
+ 
+    "Mini_Item9_Subtraction3": {
+        "Description": "Overall score of itme9(Images) of mini NYC-Q during Subtraction state at session3"
+    },
+    "Mini_Item10_Subtraction3": {
+        "Description": "Overall score of itme10(Words) of mini NYC-Q during Subtraction state at session3"
+    },
+ 
+    "Mini_Item11_Subtraction3": {
+        "Description": "Overall score of itme11(Specific-Vague) of mini NYC-Q during Subtraction state at session3"
+    },
+    "Mini_Item12_Subtraction3": {
+        "Description": "Overall score of itme12(Intrusive) of mini NYC-Q during Subtraction state at session3"
+    },
+     "EO_order_session1": {
+        "Description": "The order of eyes-open state at session1",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+     "EC_order_session1": {
+        "Description": "The order of eyes-closed state at session1",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+     "Music_order_session1": {
+        "Description": "The order of music state at session1",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+    "Memory_order_session1": {
+        "Description": "The order of memory state at session1",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+     "Subtraction_order_session1": {
+        "Description": "The order of Subtraction state at session1",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+   "EO_order_session2": {
+        "Description": "The order of eyes-open state at session2",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+     "EC_order_session2": {
+        "Description": "The order of eyes-closed state at session2",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+     "Music_order_session2": {
+        "Description": "The order of music state at session2",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+    "Memory_order_session2": {
+        "Description": "The order of memory state at session2",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+     "Subtraction_order_session2": {
+        "Description": "The order of Subtraction state at session2",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+"EO_order_session3": {
+        "Description": "The order of eyes-open state at session3",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+     "EC_order_session3": {
+        "Description": "The order of eyes-closed state at session3",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+     "Music_order_session3": {
+        "Description": "The order of music state at session3",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+    "Memory_order_session3": {
+        "Description": "The order of memory state at session3",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    },
+
+     "Subtraction_order_session3": {
+        "Description": "The order of Subtraction state at session3",
+        "Levels": {
+            "1": "recorded firstly",
+            "2": "recorded secondly",
+            "3": "recorded thirdly",
+            "4": "recorded fourthly",
+            "5": "recorded fifthly"
+         }
+    }
+
+}
